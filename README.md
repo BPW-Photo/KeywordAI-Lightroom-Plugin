@@ -1,7 +1,8 @@
 # KeywordAI — AI-Powered Keyword Suggestions for Adobe Lightroom Classic
 
-**KeywordAI** KeywordAI is an Adobe Lightroom Classic plugin that uses Claude AI to automatically analyse your photos and suggest relevant keywords — saving you hours of manual keywording. Available from Belfast Photo Workshops.
-https://www.belfastphotoworkshops.com/tips-and-tools
+**KeywordAI** KeywordAI is an AI-powered Adobe Lightroom Classic plugin that analyses your photos and suggests up to 30 relevant keywords in seconds — saving hours of manual keywording work.
+Built by Rob Durston — Belfast Photo Workshops
+Buy KeywordAI — £10 — Belfast Photo Workshops https://www.belfastphotoworkshops.com/tips-and-tools
 
 Built by **[Rob Durston](https://www.belfastphotoworkshops.com)** & Claude (Anthropic) — [Belfast Photo Workshops](https://www.belfastphotoworkshops.com)
 
